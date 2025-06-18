@@ -24,7 +24,7 @@
 #include <sys/types.h>
 
 #include <compiler.h>
-#include <trace.h>
+#include <../include/trace.h>
 #include <abuf.h>
 
 #include <linux/list.h>
